@@ -1,0 +1,24 @@
+{
+  "name": "mendel.js",
+  "version": "0.0.0",
+  "description": "A library providing basic Mendelian genetics operations in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katie7r/mendel.js.git"
+  },
+  "keywords": [
+    "mendel",
+    "genetics",
+    "libarary"
+  ],
+  "author": "Katie Russ",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/katie7r/mendel.js/issues"
+  },
+  "homepage": "https://github.com/katie7r/mendel.js#readme"
+}
